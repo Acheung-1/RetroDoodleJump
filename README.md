@@ -3,7 +3,6 @@
 Group members:
 -   Andrew Cheung
 -   David Miloschewsky
--   Anoushkaa Mishra
 
 To run the game, run the script main.py. You will be presented with a window and a prompt to start the game.
 
